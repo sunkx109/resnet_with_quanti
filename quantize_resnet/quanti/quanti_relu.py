@@ -1,7 +1,6 @@
 """
 @file quanti_relu.py
 @date 2020-07-08
-@author Yushu Gao (yushu.gao@horizon.ai)
 """
 
 import torch
