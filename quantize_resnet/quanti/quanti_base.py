@@ -1,8 +1,6 @@
 """
 @file quanti_base.py
 @date 2021-07-23
-@author Kaixin Sun (kaixin.sun@horizon.ai)
-@reference Yushu Gao (yushu.gao@horizon.ai)
 """
 
 from torch import nn
