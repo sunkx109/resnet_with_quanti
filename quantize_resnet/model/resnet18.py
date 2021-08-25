@@ -1,5 +1,5 @@
 """
-@file quanti_avgpool2d.py
+@file resnet18.py
 @date 2021-07-23
 """
 
