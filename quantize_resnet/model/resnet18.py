@@ -1,8 +1,6 @@
 """
 @file quanti_avgpool2d.py
 @date 2021-07-23
-@author Kaixin Sun (kaixin.sun@horizon.ai)
-@reference Yushu Gao (yushu.gao@horizon.ai)
 """
 
 import sys 
